@@ -1,1 +1,1 @@
-export { IntervalTree } from './interval.js';
+export { IntervalTree } from './interval-tree.js';
